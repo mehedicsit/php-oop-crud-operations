@@ -1,0 +1,18 @@
+.create-container , .upadate-form {
+    margin-top: 30px;
+}
+.insert-submit {
+    float: right;
+    padding: 6px 25px;
+    margin-left: 15px;
+    border: none;
+    border-radius: 0;
+}
+.insert-cancel{
+    float: right;
+    padding: 6px 25px;
+    margin-left: 15px;
+    border: none;
+    border-radius: 0;
+
+}
